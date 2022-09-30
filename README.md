@@ -21,9 +21,3 @@
 <img width="40px" title="Vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>&emsp;
 <img width="40px" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
 <img width="45px" title="Npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
-
-## Next learning
-
-<img width="40px" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&emsp;
-<img width="45px" title="Next.Js" src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png"/>&emsp;
-<img width="130px" title="Gatsby" src="https://www.freelogovectors.net/wp-content/uploads/2020/12/gatsby-logo-freelogovectors.net_.png"/>&emsp;
