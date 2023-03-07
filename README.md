@@ -21,3 +21,8 @@
 <img width="40px" title="Vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>&emsp;
 <img width="40px" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
 <img width="45px" title="Npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
+
+## Learning
+
+<img width="45px" title="NextJs" src="https://user-images.githubusercontent.com/71499827/223490764-a42facff-bc4c-4857-9e75-9dee2233fcf9.png"/>&emsp;
+
