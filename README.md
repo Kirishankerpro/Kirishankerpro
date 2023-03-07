@@ -15,6 +15,8 @@
 <img width="60px" title="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"/>&emsp;
 <img width="40px" title="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg"/>&emsp;
 <img width="40px" title="GitHub" src="https://simpleicons.org/icons/github.svg"/>&emsp;
+<img width="45px" title="NextJS" src="https://user-images.githubusercontent.com/71499827/223490764-a42facff-bc4c-4857-9e75-9dee2233fcf9.png"/>&emsp;
+
 
 ## Tools
 
@@ -22,7 +24,5 @@
 <img width="40px" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>&emsp;
 <img width="45px" title="Npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>&emsp;
 
-## Learning
 
-<img width="45px" title="NextJS" src="https://user-images.githubusercontent.com/71499827/223490764-a42facff-bc4c-4857-9e75-9dee2233fcf9.png"/>&emsp;
 
