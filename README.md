@@ -1,7 +1,7 @@
 <img align="right" width="100" height="100" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png"/>
 <h1 align="center"> < Hi I'm Kirishanth 👋🏼  &nbsp; - &nbsp;  Full-Stack Developer /> </h1>
 
-## Skills
+## Skillset
 
 <img title="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
 <img title="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
