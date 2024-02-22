@@ -1,5 +1,5 @@
 <img align="right" width="100" height="100" src="https://jorgecolonconsulting.com/wp-content/uploads/React-Icon-Black.png"/>
-<h1 align="center"> < Hi I'm Kirishanth 👋🏼  &nbsp; - &nbsp;  Full-Stack Developer /> </h1>
+<h1 align="center"> < Hi I'm Kiris 👋🏼  &nbsp; - &nbsp;  Full-Stack Developer /> </h1>
 
 ## Skillset
 
