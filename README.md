@@ -28,7 +28,7 @@
 
 ## Tools
 
-<img title="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="border-radius:5px;">&nbsp;
+<img title="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="border-radius:10px;">&nbsp;
 <img title="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="border-radius:5px;">&nbsp;
 <img title="Webstorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" style="border-radius:5px;">&nbsp;
 <img title="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" style="border-radius:5px;">&nbsp;
