@@ -38,4 +38,4 @@
 <img title="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">&nbsp;
 
 &nbsp;
-See my portfolio <a href="https://kirishanth-dev.vercel.app" target="_blank">here </a>
+See my portfolio <a href="https://kirishanth-dev.vercel.app" target="__blank">here </a>
